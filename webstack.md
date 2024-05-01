@@ -383,7 +383,9 @@
 |[RegExr](https://regexr.com/)|正規表示式測試|
 |[RegExr中文](https://regexr-cn.com/)|正規表示式測試|
 |[regex101](https://regex101.com/)|正規表示式測試|
+|[Cyrilex](https://extendsclass.com/regex-tester.html)|正規表示式測試|
 |[Mockaroo](https://mockaroo.com/)|隨機資料產生|
+|[Mockium](https://softwium.com/mockium/)|隨機資料產生|
 |[Table Convert Online](https://tableconvert.com/)|表格資料轉換成各種格式|
 |[SQLizer](https://sqlizer.io)|各種資料格式轉換成SQL|
 |[JSON Editor Online](https://jsoneditoronline.org/)|視覺化的 JSON 格式線上編輯器|
